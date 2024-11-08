@@ -1,4 +1,3 @@
 var/default.conf.php
-var/.htaccess
 var/debug.log
 var/rvphp.djaxbidder.com.conf.php
